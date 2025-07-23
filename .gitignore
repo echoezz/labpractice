@@ -1,0 +1,4 @@
+odc-data/
+odc-reports/
+.venv/
+.env
