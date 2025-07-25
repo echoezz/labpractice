@@ -3,3 +3,4 @@ odc-reports/
 .venv/
 .env
 node_modules/
+.scannerwork/
